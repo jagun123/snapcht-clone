@@ -1,0 +1,23 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fefc01;
+    height: 100vh;
+}
+.app_logo{
+    object-fit: contain;
+    height: 100px;
+}
+.app__body{
+    background: url('https://i.pinimg.com/564x/fd/44/f3/fd44f33afbf885a8bdf8667e43d39951.jpg')no-repeat center;
+    background-size: contain;
+    height: 400px;
+    width: 250px;
+    padding: 74px;
+}
+.app__bodybackground{
+     background-color: white;
+    height: 400px;
+}
